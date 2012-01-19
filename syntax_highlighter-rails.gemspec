@@ -6,10 +6,10 @@ Gem::Specification.new do |s|
   s.name        = "syntax_highlighter-rails"
   s.version     = Syntaxhighlighter::Rails::VERSION
   s.authors     = ["richfisher"]
-  s.email       = ["51877881@qq.com"]
+  s.email       = ["richfisher.pan@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Rails pipeline wraper for syntaxHighlighter}
+  s.description = %q{Rails pipeline wraper for syntaxHighlighter}
 
   s.rubyforge_project = "syntax_highlighter-rails"
 
